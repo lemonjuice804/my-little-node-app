@@ -1,0 +1,17 @@
+/node_modules
+/public
+.dropbox
+.DS_Store
+/doc/*
+*.tmp
+*.tmp.*
+*.tar.gz
+*.log
+*.backup
+sha.txt
+npm-debug.log*
+
+packages
+/test/log
+/test/tmp
+/test/testem.log
