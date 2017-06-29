@@ -1,6 +1,5 @@
 /node_modules
 /public
-/public/assets
 .dropbox
 .DS_Store
 /doc/*
